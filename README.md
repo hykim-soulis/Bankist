@@ -37,7 +37,7 @@ This project is a javascript coding-along with the Udemy The Complete JavaScript
 1. Clone the project
 
 ```bash
-  git clone https://github.com/hykim-soulis/Pig-game.git
+  git clone https://github.com/hykim-soulis/Bankist-account.git
 ```
 
 2. Go to the project directory
