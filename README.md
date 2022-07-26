@@ -26,6 +26,10 @@ You can check your account balance summary and recent transactions as well as tr
 - CSS Style Manipulation
 - Event Handling
 
+### Live demo link
+
+[https://bankist-account-hyeyoung.netlify.app/](https://bankist-account-hyeyoung.netlify.app/)
+
 ### Bankist logic flowchart
 
 ![Bankist logic flowchart](https://github.com/jonasschmedtmann/complete-javascript-course/blob/master/11-Arrays-Bankist/final/Bankist-flowchart.png?raw=true)
