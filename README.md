@@ -4,12 +4,12 @@ Bankist account project is implementing a bank account dashboard page for user. 
 
 ## Project Description
 
-To start this project, you need to login first using one of the below example account. Your login session lasts 5 minutes and any new activity will reset the session timer.
+To start this project, you need to login first with one of the below example accounts. Your login session lasts for 5 minutes and any new activity will reset the session timer.
 
 1. user: js, PIN: 1111
 2. user: jd, PIN: 2222
 
-You can check your account balance summary and recent transactions as well as transfer money, request loan and close account.
+User can check their account balance summary and recent transactions as well as transfer money, request loan and close account.
 
 ### Features
 
@@ -54,7 +54,7 @@ This project is a javascript coding-along with the Udemy The Complete JavaScript
 
 ## Resource
 
-The below link is the instructors github address.
+The below link is the instructor's github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-javascript-course.git)
 
