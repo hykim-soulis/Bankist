@@ -1,6 +1,6 @@
 # Bankist Account
 
-Bankist account project is implementing a bank account dashboard page for user. In this project, I learned how to internationalize date and currency format depends on users' locale and set timer for user login session.
+Bankist account is a bank account dashboard page for user. In this project, I learned how to internationalize date and currency format depends on users' locale and set timer for user login session.
 
 ## Project Description
 
