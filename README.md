@@ -1,15 +1,15 @@
 # Bankist Account
 
-Bankist account is a bank account dashboard page for user. In this project, I learned how to internationalize date and currency format depends on users' locale and set timer for user login session.
+Bankist account is a bank account dashboard page for users. In this project, I learned how to internationalize date and currency format depending on the users' locale and how to set user login session timer.
 
 ## Project Description
 
 To start this project, you need to login first with one of the below example accounts. Your login session lasts for 5 minutes and any new activity will reset the session timer.
 
-1. user: js, PIN: 1111
-2. user: jd, PIN: 2222
+1. user: js, PIN: 1111 (Europe)
+2. user: jd, PIN: 2222 (US)
 
-User can check their account balance summary and recent transactions as well as transfer money, request loan and close account.
+User can check their account balance summary and recent transactions as well as transfer money, request loans and close their account.
 
 ### Features
 
